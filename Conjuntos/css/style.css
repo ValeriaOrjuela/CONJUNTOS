@@ -1,0 +1,14 @@
+body {
+    font-size: 17px;
+    color: #000;
+    background-color: #FEEFE5;
+    font-family: 'Oxygen', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+ /********** Large devices only **********/
+ @media (min-width: 1200px) {
+    
+ 
+}
